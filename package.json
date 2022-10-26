@@ -1,0 +1,20 @@
+{
+  "name": "article-preview-component-master",
+  "version": "1.0.0",
+  "description": "challenge of FrontendMentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "article",
+    "preview",
+    "component"
+  ],
+  "author": "Leonard Sumoza <leonardsumoza1987@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "pug-cli": "^1.0.0-alpha6",
+    "typescript": "^4.8.4"
+  }
+}
